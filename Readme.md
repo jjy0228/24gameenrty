@@ -117,12 +117,13 @@ git push -u origin main
     - 하위 하위 항목
 
 코드 블럭 (Code Block)
+
 ​```언어
 코드 내용
 ​```
+
+
 수평선 (Horizontal Line)
-yaml
-Copy code
 ---
 
 링크 (Link)
